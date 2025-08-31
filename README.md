@@ -3,9 +3,6 @@
 ## GitHub Stats
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopranama&show_icons=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com?user=nicopranama&theme=tokyonight)](https://git.io/streak-stats)
 
-## Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=nicopranama&theme=tokyonight)](https://git.io/streak-stats)
-
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopranama&layout=compact&theme=tokyonight)
 
