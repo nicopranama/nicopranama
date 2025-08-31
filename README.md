@@ -1,13 +1,13 @@
 # Hi👋, I'm Nico Pranama
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopranama&layout=compact&theme=tokyonight)
+
 ## GitHub Stats
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicopranama&show_icons=true&theme=tokyonight)
 
 ## Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=nicopranama&theme=tokyonight)](https://git.io/streak-stats)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicopranama&layout=compact&theme=tokyonight)
 
 ## Profile Summary Cards
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicopranama&theme=tokyonight)
