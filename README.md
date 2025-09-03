@@ -1,4 +1,4 @@
-# Hi👋, I'm Nico Pranama.
+# Hi👋, I'm Nico Pranama
 ![Profile views](https://komarev.com/ghpvc/?username=nicopranama&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## Most Used Languages
