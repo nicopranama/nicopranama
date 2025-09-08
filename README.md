@@ -11,7 +11,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicopranama&theme=tokyonight" height="180em" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nicopranama&theme=tokyonight" width="500" />
+  <img src="https://streak-stats.demolab.com?user=nicopranama&theme=tokyonight" width="700" />
 </div>
 
 ## Streak Stats
